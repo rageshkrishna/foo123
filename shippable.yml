@@ -3,3 +3,7 @@ python:
  - 2.7
 install: true
 script: true
+branches:
+ only:
+  - master
+  - foo
