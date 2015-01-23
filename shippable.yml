@@ -1,3 +1,6 @@
+-:
+ -< >
+  -- : foobar invalid yml :!(
 language: python
 python:
  - 2.7
