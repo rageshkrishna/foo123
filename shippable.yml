@@ -1,12 +1,5 @@
 language: python
 python:
  - 2.7
-env:
- - FOO=bar
- - FIZZ=bin
 install: true
 script: true
-branches:
- only:
-  - master
-  - foo
